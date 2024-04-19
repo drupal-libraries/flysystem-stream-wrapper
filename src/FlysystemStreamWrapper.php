@@ -7,12 +7,12 @@
  * file that was distributed with this source code.
  */
 
-namespace M2MTech\FlysystemStreamWrapper;
+namespace DrupalLibraries\FlysystemStreamWrapper;
 
 use League\Flysystem\FilesystemOperator;
 use League\Flysystem\Visibility;
-use M2MTech\FlysystemStreamWrapper\Flysystem\Helper\UserGuesser;
-use M2MTech\FlysystemStreamWrapper\Flysystem\StreamWrapper;
+use DrupalLibraries\FlysystemStreamWrapper\Flysystem\Helper\UserGuesser;
+use DrupalLibraries\FlysystemStreamWrapper\Flysystem\StreamWrapper;
 
 final class FlysystemStreamWrapper
 {

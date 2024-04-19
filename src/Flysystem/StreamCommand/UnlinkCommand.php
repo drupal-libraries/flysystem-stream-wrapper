@@ -7,12 +7,12 @@
  * file that was distributed with this source code.
  */
 
-namespace M2MTech\FlysystemStreamWrapper\Flysystem\StreamCommand;
+namespace DrupalLibraries\FlysystemStreamWrapper\Flysystem\StreamCommand;
 
 use League\Flysystem\FilesystemException;
-use M2MTech\FlysystemStreamWrapper\Flysystem\Exception\CouldNotDeleteFileException;
-use M2MTech\FlysystemStreamWrapper\Flysystem\Exception\FileNotFoundException;
-use M2MTech\FlysystemStreamWrapper\Flysystem\FileData;
+use DrupalLibraries\FlysystemStreamWrapper\Flysystem\Exception\CouldNotDeleteFileException;
+use DrupalLibraries\FlysystemStreamWrapper\Flysystem\Exception\FileNotFoundException;
+use DrupalLibraries\FlysystemStreamWrapper\Flysystem\FileData;
 
 final class UnlinkCommand
 {

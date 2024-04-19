@@ -7,14 +7,14 @@
  * file that was distributed with this source code.
  */
 
-namespace M2MTech\FlysystemStreamWrapper\Flysystem\StreamCommand;
+namespace DrupalLibraries\FlysystemStreamWrapper\Flysystem\StreamCommand;
 
 use League\Flysystem\FilesystemException;
-use M2MTech\FlysystemStreamWrapper\Flysystem\Exception\DirectoryNotEmptyException;
-use M2MTech\FlysystemStreamWrapper\Flysystem\Exception\FileNotFoundException;
-use M2MTech\FlysystemStreamWrapper\Flysystem\Exception\IsDirectoryException;
-use M2MTech\FlysystemStreamWrapper\Flysystem\Exception\IsNotDirectoryException;
-use M2MTech\FlysystemStreamWrapper\Flysystem\FileData;
+use DrupalLibraries\FlysystemStreamWrapper\Flysystem\Exception\DirectoryNotEmptyException;
+use DrupalLibraries\FlysystemStreamWrapper\Flysystem\Exception\FileNotFoundException;
+use DrupalLibraries\FlysystemStreamWrapper\Flysystem\Exception\IsDirectoryException;
+use DrupalLibraries\FlysystemStreamWrapper\Flysystem\Exception\IsNotDirectoryException;
+use DrupalLibraries\FlysystemStreamWrapper\Flysystem\FileData;
 
 final class RenameCommand
 {

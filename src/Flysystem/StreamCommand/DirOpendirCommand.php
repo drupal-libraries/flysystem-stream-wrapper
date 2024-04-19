@@ -7,13 +7,13 @@
  * file that was distributed with this source code.
  */
 
-namespace M2MTech\FlysystemStreamWrapper\Flysystem\StreamCommand;
+namespace DrupalLibraries\FlysystemStreamWrapper\Flysystem\StreamCommand;
 
 use Iterator;
 use IteratorIterator;
 use League\Flysystem\FilesystemException;
-use M2MTech\FlysystemStreamWrapper\Flysystem\Exception\DirectoryNotFoundException;
-use M2MTech\FlysystemStreamWrapper\Flysystem\FileData;
+use DrupalLibraries\FlysystemStreamWrapper\Flysystem\Exception\DirectoryNotFoundException;
+use DrupalLibraries\FlysystemStreamWrapper\Flysystem\FileData;
 
 final class DirOpendirCommand
 {

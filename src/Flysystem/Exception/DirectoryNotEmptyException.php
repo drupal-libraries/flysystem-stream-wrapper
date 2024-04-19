@@ -7,7 +7,7 @@
  * file that was distributed with this source code.
  */
 
-namespace M2MTech\FlysystemStreamWrapper\Flysystem\Exception;
+namespace DrupalLibraries\FlysystemStreamWrapper\Flysystem\Exception;
 
 final class DirectoryNotEmptyException extends StreamWrapperException
 {

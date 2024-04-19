@@ -7,7 +7,7 @@
  * file that was distributed with this source code.
  */
 
-namespace M2MTech\FlysystemStreamWrapper\Flysystem\Helper;
+namespace DrupalLibraries\FlysystemStreamWrapper\Flysystem\Helper;
 
 class UserGuesser
 {

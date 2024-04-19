@@ -7,10 +7,10 @@
  * file that was distributed with this source code.
  */
 
-namespace M2MTech\FlysystemStreamWrapper\Flysystem;
+namespace DrupalLibraries\FlysystemStreamWrapper\Flysystem;
 
 use League\Flysystem\FilesystemException;
-use M2MTech\FlysystemStreamWrapper\Flysystem\StreamCommand\StreamWriteCommand;
+use DrupalLibraries\FlysystemStreamWrapper\Flysystem\StreamCommand\StreamWriteCommand;
 
 /**
  * @method url_stat(string $path, int $int)

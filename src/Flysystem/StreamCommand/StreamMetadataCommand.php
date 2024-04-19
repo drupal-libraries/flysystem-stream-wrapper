@@ -7,13 +7,13 @@
  * file that was distributed with this source code.
  */
 
-namespace M2MTech\FlysystemStreamWrapper\Flysystem\StreamCommand;
+namespace DrupalLibraries\FlysystemStreamWrapper\Flysystem\StreamCommand;
 
 use League\Flysystem\FilesystemException;
 use League\Flysystem\UnixVisibility\PortableVisibilityConverter;
-use M2MTech\FlysystemStreamWrapper\Flysystem\Exception\UnableToChangePermissionsException;
-use M2MTech\FlysystemStreamWrapper\Flysystem\Exception\UnableToWriteException;
-use M2MTech\FlysystemStreamWrapper\Flysystem\FileData;
+use DrupalLibraries\FlysystemStreamWrapper\Flysystem\Exception\UnableToChangePermissionsException;
+use DrupalLibraries\FlysystemStreamWrapper\Flysystem\Exception\UnableToWriteException;
+use DrupalLibraries\FlysystemStreamWrapper\Flysystem\FileData;
 
 final class StreamMetadataCommand
 {

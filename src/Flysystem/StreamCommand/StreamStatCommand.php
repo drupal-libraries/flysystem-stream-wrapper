@@ -7,7 +7,7 @@
  * file that was distributed with this source code.
  */
 
-namespace M2MTech\FlysystemStreamWrapper\Flysystem\StreamCommand;
+namespace DrupalLibraries\FlysystemStreamWrapper\Flysystem\StreamCommand;
 
 use Iterator;
 use IteratorIterator;
@@ -16,9 +16,9 @@ use League\Flysystem\FilesystemException;
 use League\Flysystem\UnableToRetrieveMetadata;
 use League\Flysystem\UnixVisibility\PortableVisibilityConverter;
 use League\Flysystem\Visibility;
-use M2MTech\FlysystemStreamWrapper\Flysystem\Exception\StatFailedException;
-use M2MTech\FlysystemStreamWrapper\Flysystem\FileData;
-use M2MTech\FlysystemStreamWrapper\FlysystemStreamWrapper;
+use DrupalLibraries\FlysystemStreamWrapper\Flysystem\Exception\StatFailedException;
+use DrupalLibraries\FlysystemStreamWrapper\Flysystem\FileData;
+use DrupalLibraries\FlysystemStreamWrapper\FlysystemStreamWrapper;
 use TypeError;
 
 final class StreamStatCommand

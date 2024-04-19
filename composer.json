@@ -30,7 +30,7 @@
         "ext-intl": "*",
         "ext-pcntl": "*",
         "phpstan/phpstan": "^1.10",
-        "phpunit/phpunit": "^8.5|^9.6|^10.0",
+        "phpunit/phpunit": "^8.5|^9.6|^10.0"
     },
     "autoload": {
         "psr-4": {

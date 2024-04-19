@@ -15,7 +15,7 @@ use DrupalLibraries\FlysystemStreamWrapper\Flysystem\StreamCommand\StreamWriteCo
 /**
  * @method url_stat(string $path, int $int)
  */
-final class StreamWrapper
+abstract class StreamWrapper
 {
     /** @var FileData */
     private $current;

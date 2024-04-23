@@ -23,7 +23,7 @@ For contribution guidelines, see [CONTRIBUTING](.github/CONTRIBUTING.md).
 
 ## Credits
 
-- This package was inspired by [m2mtech/flysystem-stream-wrapper](https://github.com/twistor/flysystem-stream-wrapper). Many thanks to [Martin Mandl](https://github.com/m2mtech).
+- This package was inspired by [m2mtech/flysystem-stream-wrapper](https://github.com/m2mtech/flysystem-stream-wrapper). Many thanks to [Martin Mandl](https://github.com/m2mtech).
 - [All Contributors](../../contributors)
 
 ## License
